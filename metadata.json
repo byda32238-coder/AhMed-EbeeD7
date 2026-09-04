@@ -1,0 +1,6 @@
+{
+  "name": "طلاقة - منصة التدريب القرائي المنهجي",
+  "description": "منصة التدريب القرائي المنهجي لتعليم القراءة والحركات والمدود والسكون والتنوين والشدة مع سبورة وأدوات تفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
